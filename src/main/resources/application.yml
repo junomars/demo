@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: demo
+neo4j.uri: bolt://${NEO4J_HOST:localhost}
